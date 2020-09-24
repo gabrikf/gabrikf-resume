@@ -1,6 +1,6 @@
 # Gabriel Koch Fodi (Resume)
 
-Este projeto é o código-fonte do curriculo online de Gabriel Koch Fodi, disponível 
+Este projeto é o código-fonte do curriculo online de Gabriel Koch Fodi, disponível [aqui](https://gabrikf-resume.vercel.app/)
 
 ![Preview](https://github.com/gabrikf/gabriel-resume/blob/master/print.png?raw=true)
 
