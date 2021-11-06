@@ -3,7 +3,7 @@ import ContactMe from "./ContactMe";
 
 const Hero = () => {
   return (
-    <div className="md:grid md:grid-cols-2 leading-none">
+    <div className="md:grid md:grid-cols-2 leading-none mb-4">
       <div className="pt-16 ">
         <h1 className="text-4xl uppercase md:pt-32 pl-16">
           Hi, I`m Gabriel Koch Fodi
