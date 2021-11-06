@@ -2,7 +2,6 @@
 
 Este projeto é o código-fonte do curriculo online de Gabriel Koch Fodi, disponível [aqui](https://gabrikf-resume.vercel.app/)
 
-![Preview](https://github.com/gabrikf/gabriel-resume/blob/master/print.png?raw=true)
 ![Screen Shot 2021-11-06 at 16 28 19](https://user-images.githubusercontent.com/67654630/140621633-37a2d200-c45f-4d51-9184-c934f834436a.png)
 
 ## Início
