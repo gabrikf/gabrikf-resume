@@ -6,6 +6,9 @@
   background: #8791a3;
 }
 
+body {
+  font-family: system-ui;
+}
 
 /*.bg-network {
   background: url(/images/back-network.png) top right no-repeat;
